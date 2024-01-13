@@ -1,0 +1,1001 @@
+CityName,AbbreviationCode,CountryName,Continent,Region,SurfaceArea
+Oranjestad,ABW,Aruba,"North America",Caribbean,193.00
+Kabul,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00
+Qandahar,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00
+Herat,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00
+Mazar-e-Sharif,AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00
+Luanda,AGO,Angola,Africa,"Central Africa",1246700.00
+Huambo,AGO,Angola,Africa,"Central Africa",1246700.00
+Lobito,AGO,Angola,Africa,"Central Africa",1246700.00
+Benguela,AGO,Angola,Africa,"Central Africa",1246700.00
+Namibe,AGO,Angola,Africa,"Central Africa",1246700.00
+"South Hill",AIA,Anguilla,"North America",Caribbean,96.00
+"The Valley",AIA,Anguilla,"North America",Caribbean,96.00
+Tirana,ALB,Albania,Europe,"Southern Europe",28748.00
+"Andorra la Vella",AND,Andorra,Europe,"Southern Europe",468.00
+Willemstad,ANT,"Netherlands Antilles","North America",Caribbean,800.00
+Dubai,ARE,"United Arab Emirates",Asia,"Middle East",83600.00
+"Abu Dhabi",ARE,"United Arab Emirates",Asia,"Middle East",83600.00
+Sharja,ARE,"United Arab Emirates",Asia,"Middle East",83600.00
+al-Ayn,ARE,"United Arab Emirates",Asia,"Middle East",83600.00
+Ajman,ARE,"United Arab Emirates",Asia,"Middle East",83600.00
+"Buenos Aires",ARG,Argentina,"South America","South America",2780400.00
+"La Matanza",ARG,Argentina,"South America","South America",2780400.00
+Córdoba,ARG,Argentina,"South America","South America",2780400.00
+Rosario,ARG,Argentina,"South America","South America",2780400.00
+"Lomas de Zamora",ARG,Argentina,"South America","South America",2780400.00
+Quilmes,ARG,Argentina,"South America","South America",2780400.00
+"Almirante Brown",ARG,Argentina,"South America","South America",2780400.00
+"La Plata",ARG,Argentina,"South America","South America",2780400.00
+"Mar del Plata",ARG,Argentina,"South America","South America",2780400.00
+"San Miguel de Tucumán",ARG,Argentina,"South America","South America",2780400.00
+Lanús,ARG,Argentina,"South America","South America",2780400.00
+Merlo,ARG,Argentina,"South America","South America",2780400.00
+"General San Martín",ARG,Argentina,"South America","South America",2780400.00
+Salta,ARG,Argentina,"South America","South America",2780400.00
+Moreno,ARG,Argentina,"South America","South America",2780400.00
+"Santa Fé",ARG,Argentina,"South America","South America",2780400.00
+Avellaneda,ARG,Argentina,"South America","South America",2780400.00
+"Tres de Febrero",ARG,Argentina,"South America","South America",2780400.00
+Morón,ARG,Argentina,"South America","South America",2780400.00
+"Florencio Varela",ARG,Argentina,"South America","South America",2780400.00
+"San Isidro",ARG,Argentina,"South America","South America",2780400.00
+Tigre,ARG,Argentina,"South America","South America",2780400.00
+"Malvinas Argentinas",ARG,Argentina,"South America","South America",2780400.00
+"Vicente López",ARG,Argentina,"South America","South America",2780400.00
+Berazategui,ARG,Argentina,"South America","South America",2780400.00
+Corrientes,ARG,Argentina,"South America","South America",2780400.00
+"San Miguel",ARG,Argentina,"South America","South America",2780400.00
+"Bahía Blanca",ARG,Argentina,"South America","South America",2780400.00
+"Esteban Echeverría",ARG,Argentina,"South America","South America",2780400.00
+Resistencia,ARG,Argentina,"South America","South America",2780400.00
+"José C. Paz",ARG,Argentina,"South America","South America",2780400.00
+Paraná,ARG,Argentina,"South America","South America",2780400.00
+"Godoy Cruz",ARG,Argentina,"South America","South America",2780400.00
+Posadas,ARG,Argentina,"South America","South America",2780400.00
+Guaymallén,ARG,Argentina,"South America","South America",2780400.00
+"Santiago del Estero",ARG,Argentina,"South America","South America",2780400.00
+"San Salvador de Jujuy",ARG,Argentina,"South America","South America",2780400.00
+Hurlingham,ARG,Argentina,"South America","South America",2780400.00
+Neuquén,ARG,Argentina,"South America","South America",2780400.00
+Ituzaingó,ARG,Argentina,"South America","South America",2780400.00
+"San Fernando",ARG,Argentina,"South America","South America",2780400.00
+Formosa,ARG,Argentina,"South America","South America",2780400.00
+"Las Heras",ARG,Argentina,"South America","South America",2780400.00
+"La Rioja",ARG,Argentina,"South America","South America",2780400.00
+"San Fernando del Valle de Cata",ARG,Argentina,"South America","South America",2780400.00
+"Río Cuarto",ARG,Argentina,"South America","South America",2780400.00
+"Comodoro Rivadavia",ARG,Argentina,"South America","South America",2780400.00
+Mendoza,ARG,Argentina,"South America","South America",2780400.00
+"San Nicolás de los Arroyos",ARG,Argentina,"South America","South America",2780400.00
+"San Juan",ARG,Argentina,"South America","South America",2780400.00
+Escobar,ARG,Argentina,"South America","South America",2780400.00
+Concordia,ARG,Argentina,"South America","South America",2780400.00
+Pilar,ARG,Argentina,"South America","South America",2780400.00
+"San Luis",ARG,Argentina,"South America","South America",2780400.00
+Ezeiza,ARG,Argentina,"South America","South America",2780400.00
+"San Rafael",ARG,Argentina,"South America","South America",2780400.00
+Tandil,ARG,Argentina,"South America","South America",2780400.00
+Yerevan,ARM,Armenia,Asia,"Middle East",29800.00
+Gjumri,ARM,Armenia,Asia,"Middle East",29800.00
+Vanadzor,ARM,Armenia,Asia,"Middle East",29800.00
+Tafuna,ASM,"American Samoa",Oceania,Polynesia,199.00
+Fagatogo,ASM,"American Samoa",Oceania,Polynesia,199.00
+NULL,ATA,Antarctica,Antarctica,Antarctica,13120000.00
+NULL,ATF,"French Southern territories",Antarctica,Antarctica,7780.00
+"Saint John´s",ATG,"Antigua and Barbuda","North America",Caribbean,442.00
+Sydney,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Melbourne,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Brisbane,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Perth,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Adelaide,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Canberra,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+"Gold Coast",AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Newcastle,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+"Central Coast",AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Wollongong,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Hobart,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Geelong,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Townsville,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Cairns,AUS,Australia,Oceania,"Australia and New Zealand",7741220.00
+Wien,AUT,Austria,Europe,"Western Europe",83859.00
+Graz,AUT,Austria,Europe,"Western Europe",83859.00
+Linz,AUT,Austria,Europe,"Western Europe",83859.00
+Salzburg,AUT,Austria,Europe,"Western Europe",83859.00
+Innsbruck,AUT,Austria,Europe,"Western Europe",83859.00
+Klagenfurt,AUT,Austria,Europe,"Western Europe",83859.00
+Bakı,AZE,Azerbaijan,Asia,"Middle East",86600.00
+Gəncə,AZE,Azerbaijan,Asia,"Middle East",86600.00
+Sumqayıt,AZE,Azerbaijan,Asia,"Middle East",86600.00
+Mingəçevir,AZE,Azerbaijan,Asia,"Middle East",86600.00
+Bujumbura,BDI,Burundi,Africa,"Eastern Africa",27834.00
+Antwerpen,BEL,Belgium,Europe,"Western Europe",30518.00
+Gent,BEL,Belgium,Europe,"Western Europe",30518.00
+Charleroi,BEL,Belgium,Europe,"Western Europe",30518.00
+Liège,BEL,Belgium,Europe,"Western Europe",30518.00
+"Bruxelles [Brussel]",BEL,Belgium,Europe,"Western Europe",30518.00
+Brugge,BEL,Belgium,Europe,"Western Europe",30518.00
+Schaerbeek,BEL,Belgium,Europe,"Western Europe",30518.00
+Namur,BEL,Belgium,Europe,"Western Europe",30518.00
+Mons,BEL,Belgium,Europe,"Western Europe",30518.00
+Cotonou,BEN,Benin,Africa,"Western Africa",112622.00
+Porto-Novo,BEN,Benin,Africa,"Western Africa",112622.00
+Djougou,BEN,Benin,Africa,"Western Africa",112622.00
+Parakou,BEN,Benin,Africa,"Western Africa",112622.00
+Ouagadougou,BFA,"Burkina Faso",Africa,"Western Africa",274000.00
+Bobo-Dioulasso,BFA,"Burkina Faso",Africa,"Western Africa",274000.00
+Koudougou,BFA,"Burkina Faso",Africa,"Western Africa",274000.00
+Dhaka,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Chittagong,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Khulna,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Rajshahi,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Narayanganj,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Rangpur,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Mymensingh,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Barisal,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Tungi,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Jessore,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Comilla,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Nawabganj,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Dinajpur,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Bogra,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Sylhet,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Brahmanbaria,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Tangail,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Jamalpur,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Pabna,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Naogaon,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Sirajganj,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Narsinghdi,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Saidpur,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Gazipur,BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00
+Sofija,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Plovdiv,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Varna,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Burgas,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Ruse,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+"Stara Zagora",BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Pleven,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Sliven,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Dobric,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+Šumen,BGR,Bulgaria,Europe,"Eastern Europe",110994.00
+al-Manama,BHR,Bahrain,Asia,"Middle East",694.00
+Nassau,BHS,Bahamas,"North America",Caribbean,13878.00
+Sarajevo,BIH,"Bosnia and Herzegovina",Europe,"Southern Europe",51197.00
+"Banja Luka",BIH,"Bosnia and Herzegovina",Europe,"Southern Europe",51197.00
+Zenica,BIH,"Bosnia and Herzegovina",Europe,"Southern Europe",51197.00
+Minsk,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Gomel,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Mogiljov,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Vitebsk,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Grodno,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Brest,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Bobruisk,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Baranovitši,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Borisov,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Pinsk,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Orša,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Mozyr,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Novopolotsk,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Lida,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Soligorsk,BLR,Belarus,Europe,"Eastern Europe",207600.00
+Molodetšno,BLR,Belarus,Europe,"Eastern Europe",207600.00
+"Belize City",BLZ,Belize,"North America","Central America",22696.00
+Belmopan,BLZ,Belize,"North America","Central America",22696.00
+"Saint George",BMU,Bermuda,"North America","North America",53.00
+Hamilton,BMU,Bermuda,"North America","North America",53.00
+"Santa Cruz de la Sierra",BOL,Bolivia,"South America","South America",1098581.00
+"La Paz",BOL,Bolivia,"South America","South America",1098581.00
+"El Alto",BOL,Bolivia,"South America","South America",1098581.00
+Cochabamba,BOL,Bolivia,"South America","South America",1098581.00
+Oruro,BOL,Bolivia,"South America","South America",1098581.00
+Sucre,BOL,Bolivia,"South America","South America",1098581.00
+Potosí,BOL,Bolivia,"South America","South America",1098581.00
+Tarija,BOL,Bolivia,"South America","South America",1098581.00
+"São Paulo",BRA,Brazil,"South America","South America",8547403.00
+"Rio de Janeiro",BRA,Brazil,"South America","South America",8547403.00
+Salvador,BRA,Brazil,"South America","South America",8547403.00
+"Belo Horizonte",BRA,Brazil,"South America","South America",8547403.00
+Fortaleza,BRA,Brazil,"South America","South America",8547403.00
+Brasília,BRA,Brazil,"South America","South America",8547403.00
+Curitiba,BRA,Brazil,"South America","South America",8547403.00
+Recife,BRA,Brazil,"South America","South America",8547403.00
+"Porto Alegre",BRA,Brazil,"South America","South America",8547403.00
+Manaus,BRA,Brazil,"South America","South America",8547403.00
+Belém,BRA,Brazil,"South America","South America",8547403.00
+Guarulhos,BRA,Brazil,"South America","South America",8547403.00
+Goiânia,BRA,Brazil,"South America","South America",8547403.00
+Campinas,BRA,Brazil,"South America","South America",8547403.00
+"São Gonçalo",BRA,Brazil,"South America","South America",8547403.00
+"Nova Iguaçu",BRA,Brazil,"South America","South America",8547403.00
+"São Luís",BRA,Brazil,"South America","South America",8547403.00
+Maceió,BRA,Brazil,"South America","South America",8547403.00
+"Duque de Caxias",BRA,Brazil,"South America","South America",8547403.00
+"São Bernardo do Campo",BRA,Brazil,"South America","South America",8547403.00
+Teresina,BRA,Brazil,"South America","South America",8547403.00
+Natal,BRA,Brazil,"South America","South America",8547403.00
+Osasco,BRA,Brazil,"South America","South America",8547403.00
+"Campo Grande",BRA,Brazil,"South America","South America",8547403.00
+"Santo André",BRA,Brazil,"South America","South America",8547403.00
+"João Pessoa",BRA,Brazil,"South America","South America",8547403.00
+"Jaboatão dos Guararapes",BRA,Brazil,"South America","South America",8547403.00
+Contagem,BRA,Brazil,"South America","South America",8547403.00
+"São José dos Campos",BRA,Brazil,"South America","South America",8547403.00
+Uberlândia,BRA,Brazil,"South America","South America",8547403.00
+"Feira de Santana",BRA,Brazil,"South America","South America",8547403.00
+"Ribeirão Preto",BRA,Brazil,"South America","South America",8547403.00
+Sorocaba,BRA,Brazil,"South America","South America",8547403.00
+Niterói,BRA,Brazil,"South America","South America",8547403.00
+Cuiabá,BRA,Brazil,"South America","South America",8547403.00
+"Juiz de Fora",BRA,Brazil,"South America","South America",8547403.00
+Aracaju,BRA,Brazil,"South America","South America",8547403.00
+"São João de Meriti",BRA,Brazil,"South America","South America",8547403.00
+Londrina,BRA,Brazil,"South America","South America",8547403.00
+Joinville,BRA,Brazil,"South America","South America",8547403.00
+"Belford Roxo",BRA,Brazil,"South America","South America",8547403.00
+Santos,BRA,Brazil,"South America","South America",8547403.00
+Ananindeua,BRA,Brazil,"South America","South America",8547403.00
+"Campos dos Goytacazes",BRA,Brazil,"South America","South America",8547403.00
+Mauá,BRA,Brazil,"South America","South America",8547403.00
+Carapicuíba,BRA,Brazil,"South America","South America",8547403.00
+Olinda,BRA,Brazil,"South America","South America",8547403.00
+"Campina Grande",BRA,Brazil,"South America","South America",8547403.00
+"São José do Rio Preto",BRA,Brazil,"South America","South America",8547403.00
+"Caxias do Sul",BRA,Brazil,"South America","South America",8547403.00
+"Moji das Cruzes",BRA,Brazil,"South America","South America",8547403.00
+Diadema,BRA,Brazil,"South America","South America",8547403.00
+"Aparecida de Goiânia",BRA,Brazil,"South America","South America",8547403.00
+Piracicaba,BRA,Brazil,"South America","South America",8547403.00
+Cariacica,BRA,Brazil,"South America","South America",8547403.00
+"Vila Velha",BRA,Brazil,"South America","South America",8547403.00
+Pelotas,BRA,Brazil,"South America","South America",8547403.00
+Bauru,BRA,Brazil,"South America","South America",8547403.00
+"Porto Velho",BRA,Brazil,"South America","South America",8547403.00
+Serra,BRA,Brazil,"South America","South America",8547403.00
+Betim,BRA,Brazil,"South America","South America",8547403.00
+Jundíaí,BRA,Brazil,"South America","South America",8547403.00
+Canoas,BRA,Brazil,"South America","South America",8547403.00
+Franca,BRA,Brazil,"South America","South America",8547403.00
+"São Vicente",BRA,Brazil,"South America","South America",8547403.00
+Maringá,BRA,Brazil,"South America","South America",8547403.00
+"Montes Claros",BRA,Brazil,"South America","South America",8547403.00
+Anápolis,BRA,Brazil,"South America","South America",8547403.00
+Florianópolis,BRA,Brazil,"South America","South America",8547403.00
+Petrópolis,BRA,Brazil,"South America","South America",8547403.00
+Itaquaquecetuba,BRA,Brazil,"South America","South America",8547403.00
+Vitória,BRA,Brazil,"South America","South America",8547403.00
+"Ponta Grossa",BRA,Brazil,"South America","South America",8547403.00
+"Rio Branco",BRA,Brazil,"South America","South America",8547403.00
+"Foz do Iguaçu",BRA,Brazil,"South America","South America",8547403.00
+Macapá,BRA,Brazil,"South America","South America",8547403.00
+Ilhéus,BRA,Brazil,"South America","South America",8547403.00
+"Vitória da Conquista",BRA,Brazil,"South America","South America",8547403.00
+Uberaba,BRA,Brazil,"South America","South America",8547403.00
+Paulista,BRA,Brazil,"South America","South America",8547403.00
+Limeira,BRA,Brazil,"South America","South America",8547403.00
+Blumenau,BRA,Brazil,"South America","South America",8547403.00
+Caruaru,BRA,Brazil,"South America","South America",8547403.00
+Santarém,BRA,Brazil,"South America","South America",8547403.00
+"Volta Redonda",BRA,Brazil,"South America","South America",8547403.00
+"Novo Hamburgo",BRA,Brazil,"South America","South America",8547403.00
+Caucaia,BRA,Brazil,"South America","South America",8547403.00
+"Santa Maria",BRA,Brazil,"South America","South America",8547403.00
+Cascavel,BRA,Brazil,"South America","South America",8547403.00
+Guarujá,BRA,Brazil,"South America","South America",8547403.00
+"Ribeirão das Neves",BRA,Brazil,"South America","South America",8547403.00
+"Governador Valadares",BRA,Brazil,"South America","South America",8547403.00
+Taubaté,BRA,Brazil,"South America","South America",8547403.00
+Imperatriz,BRA,Brazil,"South America","South America",8547403.00
+Gravataí,BRA,Brazil,"South America","South America",8547403.00
+Embu,BRA,Brazil,"South America","South America",8547403.00
+Mossoró,BRA,Brazil,"South America","South America",8547403.00
+"Várzea Grande",BRA,Brazil,"South America","South America",8547403.00
+Petrolina,BRA,Brazil,"South America","South America",8547403.00
+Barueri,BRA,Brazil,"South America","South America",8547403.00
+Viamão,BRA,Brazil,"South America","South America",8547403.00
+Ipatinga,BRA,Brazil,"South America","South America",8547403.00
+Juazeiro,BRA,Brazil,"South America","South America",8547403.00
+"Juazeiro do Norte",BRA,Brazil,"South America","South America",8547403.00
+"Taboão da Serra",BRA,Brazil,"South America","South America",8547403.00
+"São José dos Pinhais",BRA,Brazil,"South America","South America",8547403.00
+Magé,BRA,Brazil,"South America","South America",8547403.00
+Suzano,BRA,Brazil,"South America","South America",8547403.00
+"São Leopoldo",BRA,Brazil,"South America","South America",8547403.00
+Marília,BRA,Brazil,"South America","South America",8547403.00
+"São Carlos",BRA,Brazil,"South America","South America",8547403.00
+Sumaré,BRA,Brazil,"South America","South America",8547403.00
+"Presidente Prudente",BRA,Brazil,"South America","South America",8547403.00
+Divinópolis,BRA,Brazil,"South America","South America",8547403.00
+"Sete Lagoas",BRA,Brazil,"South America","South America",8547403.00
+"Rio Grande",BRA,Brazil,"South America","South America",8547403.00
+Itabuna,BRA,Brazil,"South America","South America",8547403.00
+Jequié,BRA,Brazil,"South America","South America",8547403.00
+Arapiraca,BRA,Brazil,"South America","South America",8547403.00
+Colombo,BRA,Brazil,"South America","South America",8547403.00
+Americana,BRA,Brazil,"South America","South America",8547403.00
+Alvorada,BRA,Brazil,"South America","South America",8547403.00
+Araraquara,BRA,Brazil,"South America","South America",8547403.00
+Itaboraí,BRA,Brazil,"South America","South America",8547403.00
+"Santa Bárbara d´Oeste",BRA,Brazil,"South America","South America",8547403.00
+"Nova Friburgo",BRA,Brazil,"South America","South America",8547403.00
+Jacareí,BRA,Brazil,"South America","South America",8547403.00
+Araçatuba,BRA,Brazil,"South America","South America",8547403.00
+"Barra Mansa",BRA,Brazil,"South America","South America",8547403.00
+"Praia Grande",BRA,Brazil,"South America","South America",8547403.00
+Marabá,BRA,Brazil,"South America","South America",8547403.00
+Criciúma,BRA,Brazil,"South America","South America",8547403.00
+"Boa Vista",BRA,Brazil,"South America","South America",8547403.00
+"Passo Fundo",BRA,Brazil,"South America","South America",8547403.00
+Dourados,BRA,Brazil,"South America","South America",8547403.00
+"Santa Luzia",BRA,Brazil,"South America","South America",8547403.00
+"Rio Claro",BRA,Brazil,"South America","South America",8547403.00
+Maracanaú,BRA,Brazil,"South America","South America",8547403.00
+Guarapuava,BRA,Brazil,"South America","South America",8547403.00
+Rondonópolis,BRA,Brazil,"South America","South America",8547403.00
+"São José",BRA,Brazil,"South America","South America",8547403.00
+"Cachoeiro de Itapemirim",BRA,Brazil,"South America","South America",8547403.00
+Nilópolis,BRA,Brazil,"South America","South America",8547403.00
+Itapevi,BRA,Brazil,"South America","South America",8547403.00
+"Cabo de Santo Agostinho",BRA,Brazil,"South America","South America",8547403.00
+Camaçari,BRA,Brazil,"South America","South America",8547403.00
+Sobral,BRA,Brazil,"South America","South America",8547403.00
+Itajaí,BRA,Brazil,"South America","South America",8547403.00
+Chapecó,BRA,Brazil,"South America","South America",8547403.00
+Cotia,BRA,Brazil,"South America","South America",8547403.00
+Lages,BRA,Brazil,"South America","South America",8547403.00
+"Ferraz de Vasconcelos",BRA,Brazil,"South America","South America",8547403.00
+Indaiatuba,BRA,Brazil,"South America","South America",8547403.00
+Hortolândia,BRA,Brazil,"South America","South America",8547403.00
+Caxias,BRA,Brazil,"South America","South America",8547403.00
+"São Caetano do Sul",BRA,Brazil,"South America","South America",8547403.00
+Itu,BRA,Brazil,"South America","South America",8547403.00
+"Nossa Senhora do Socorro",BRA,Brazil,"South America","South America",8547403.00
+Parnaíba,BRA,Brazil,"South America","South America",8547403.00
+"Poços de Caldas",BRA,Brazil,"South America","South America",8547403.00
+Teresópolis,BRA,Brazil,"South America","South America",8547403.00
+Barreiras,BRA,Brazil,"South America","South America",8547403.00
+Castanhal,BRA,Brazil,"South America","South America",8547403.00
+Alagoinhas,BRA,Brazil,"South America","South America",8547403.00
+"Itapecerica da Serra",BRA,Brazil,"South America","South America",8547403.00
+Uruguaiana,BRA,Brazil,"South America","South America",8547403.00
+Paranaguá,BRA,Brazil,"South America","South America",8547403.00
+Ibirité,BRA,Brazil,"South America","South America",8547403.00
+Timon,BRA,Brazil,"South America","South America",8547403.00
+Luziânia,BRA,Brazil,"South America","South America",8547403.00
+Macaé,BRA,Brazil,"South America","South America",8547403.00
+"Teófilo Otoni",BRA,Brazil,"South America","South America",8547403.00
+Moji-Guaçu,BRA,Brazil,"South America","South America",8547403.00
+Palmas,BRA,Brazil,"South America","South America",8547403.00
+Pindamonhangaba,BRA,Brazil,"South America","South America",8547403.00
+"Francisco Morato",BRA,Brazil,"South America","South America",8547403.00
+Bagé,BRA,Brazil,"South America","South America",8547403.00
+"Sapucaia do Sul",BRA,Brazil,"South America","South America",8547403.00
+"Cabo Frio",BRA,Brazil,"South America","South America",8547403.00
+Itapetininga,BRA,Brazil,"South America","South America",8547403.00
+"Patos de Minas",BRA,Brazil,"South America","South America",8547403.00
+Camaragibe,BRA,Brazil,"South America","South America",8547403.00
+"Bragança Paulista",BRA,Brazil,"South America","South America",8547403.00
+Queimados,BRA,Brazil,"South America","South America",8547403.00
+Araguaína,BRA,Brazil,"South America","South America",8547403.00
+Garanhuns,BRA,Brazil,"South America","South America",8547403.00
+"Vitória de Santo Antão",BRA,Brazil,"South America","South America",8547403.00
+"Santa Rita",BRA,Brazil,"South America","South America",8547403.00
+Barbacena,BRA,Brazil,"South America","South America",8547403.00
+Abaetetuba,BRA,Brazil,"South America","South America",8547403.00
+Jaú,BRA,Brazil,"South America","South America",8547403.00
+"Lauro de Freitas",BRA,Brazil,"South America","South America",8547403.00
+"Franco da Rocha",BRA,Brazil,"South America","South America",8547403.00
+"Teixeira de Freitas",BRA,Brazil,"South America","South America",8547403.00
+Varginha,BRA,Brazil,"South America","South America",8547403.00
+"Ribeirão Pires",BRA,Brazil,"South America","South America",8547403.00
+Sabará,BRA,Brazil,"South America","South America",8547403.00
+Catanduva,BRA,Brazil,"South America","South America",8547403.00
+"Rio Verde",BRA,Brazil,"South America","South America",8547403.00
+Botucatu,BRA,Brazil,"South America","South America",8547403.00
+Colatina,BRA,Brazil,"South America","South America",8547403.00
+"Santa Cruz do Sul",BRA,Brazil,"South America","South America",8547403.00
+Linhares,BRA,Brazil,"South America","South America",8547403.00
+Apucarana,BRA,Brazil,"South America","South America",8547403.00
+Barretos,BRA,Brazil,"South America","South America",8547403.00
+Guaratinguetá,BRA,Brazil,"South America","South America",8547403.00
+Cachoeirinha,BRA,Brazil,"South America","South America",8547403.00
+Codó,BRA,Brazil,"South America","South America",8547403.00
+"Jaraguá do Sul",BRA,Brazil,"South America","South America",8547403.00
+Cubatão,BRA,Brazil,"South America","South America",8547403.00
+Itabira,BRA,Brazil,"South America","South America",8547403.00
+Itaituba,BRA,Brazil,"South America","South America",8547403.00
+Araras,BRA,Brazil,"South America","South America",8547403.00
+Resende,BRA,Brazil,"South America","South America",8547403.00
+Atibaia,BRA,Brazil,"South America","South America",8547403.00
+"Pouso Alegre",BRA,Brazil,"South America","South America",8547403.00
+Toledo,BRA,Brazil,"South America","South America",8547403.00
+Crato,BRA,Brazil,"South America","South America",8547403.00
+Passos,BRA,Brazil,"South America","South America",8547403.00
+Araguari,BRA,Brazil,"South America","South America",8547403.00
+"São José de Ribamar",BRA,Brazil,"South America","South America",8547403.00
+Pinhais,BRA,Brazil,"South America","South America",8547403.00
+Sertãozinho,BRA,Brazil,"South America","South America",8547403.00
+"Conselheiro Lafaiete",BRA,Brazil,"South America","South America",8547403.00
+"Paulo Afonso",BRA,Brazil,"South America","South America",8547403.00
+"Angra dos Reis",BRA,Brazil,"South America","South America",8547403.00
+Eunápolis,BRA,Brazil,"South America","South America",8547403.00
+Salto,BRA,Brazil,"South America","South America",8547403.00
+Ourinhos,BRA,Brazil,"South America","South America",8547403.00
+Parnamirim,BRA,Brazil,"South America","South America",8547403.00
+Jacobina,BRA,Brazil,"South America","South America",8547403.00
+"Coronel Fabriciano",BRA,Brazil,"South America","South America",8547403.00
+Birigui,BRA,Brazil,"South America","South America",8547403.00
+Tatuí,BRA,Brazil,"South America","South America",8547403.00
+Ji-Paraná,BRA,Brazil,"South America","South America",8547403.00
+Bacabal,BRA,Brazil,"South America","South America",8547403.00
+Cametá,BRA,Brazil,"South America","South America",8547403.00
+Guaíba,BRA,Brazil,"South America","South America",8547403.00
+"São Lourenço da Mata",BRA,Brazil,"South America","South America",8547403.00
+"Santana do Livramento",BRA,Brazil,"South America","South America",8547403.00
+Votorantim,BRA,Brazil,"South America","South America",8547403.00
+"Campo Largo",BRA,Brazil,"South America","South America",8547403.00
+Patos,BRA,Brazil,"South America","South America",8547403.00
+Ituiutaba,BRA,Brazil,"South America","South America",8547403.00
+Corumbá,BRA,Brazil,"South America","South America",8547403.00
+Palhoça,BRA,Brazil,"South America","South America",8547403.00
+"Barra do Piraí",BRA,Brazil,"South America","South America",8547403.00
+"Bento Gonçalves",BRA,Brazil,"South America","South America",8547403.00
+Poá,BRA,Brazil,"South America","South America",8547403.00
+"Águas Lindas de Goiás",BRA,Brazil,"South America","South America",8547403.00
+Bridgetown,BRB,Barbados,"North America",Caribbean,430.00
+"Bandar Seri Begawan",BRN,Brunei,Asia,"Southeast Asia",5765.00
+Thimphu,BTN,Bhutan,Asia,"Southern and Central Asia",47000.00
+NULL,BVT,"Bouvet Island",Antarctica,Antarctica,59.00
+Gaborone,BWA,Botswana,Africa,"Southern Africa",581730.00
+Francistown,BWA,Botswana,Africa,"Southern Africa",581730.00
+Bangui,CAF,"Central African Republic",Africa,"Central Africa",622984.00
+Montréal,CAN,Canada,"North America","North America",9970610.00
+Calgary,CAN,Canada,"North America","North America",9970610.00
+Toronto,CAN,Canada,"North America","North America",9970610.00
+"North York",CAN,Canada,"North America","North America",9970610.00
+Winnipeg,CAN,Canada,"North America","North America",9970610.00
+Edmonton,CAN,Canada,"North America","North America",9970610.00
+Mississauga,CAN,Canada,"North America","North America",9970610.00
+Scarborough,CAN,Canada,"North America","North America",9970610.00
+Vancouver,CAN,Canada,"North America","North America",9970610.00
+Etobicoke,CAN,Canada,"North America","North America",9970610.00
+London,CAN,Canada,"North America","North America",9970610.00
+Hamilton,CAN,Canada,"North America","North America",9970610.00
+Ottawa,CAN,Canada,"North America","North America",9970610.00
+Laval,CAN,Canada,"North America","North America",9970610.00
+Surrey,CAN,Canada,"North America","North America",9970610.00
+Brampton,CAN,Canada,"North America","North America",9970610.00
+Windsor,CAN,Canada,"North America","North America",9970610.00
+Saskatoon,CAN,Canada,"North America","North America",9970610.00
+Kitchener,CAN,Canada,"North America","North America",9970610.00
+Markham,CAN,Canada,"North America","North America",9970610.00
+Regina,CAN,Canada,"North America","North America",9970610.00
+Burnaby,CAN,Canada,"North America","North America",9970610.00
+Québec,CAN,Canada,"North America","North America",9970610.00
+York,CAN,Canada,"North America","North America",9970610.00
+Richmond,CAN,Canada,"North America","North America",9970610.00
+Vaughan,CAN,Canada,"North America","North America",9970610.00
+Burlington,CAN,Canada,"North America","North America",9970610.00
+Oshawa,CAN,Canada,"North America","North America",9970610.00
+Oakville,CAN,Canada,"North America","North America",9970610.00
+"Saint Catharines",CAN,Canada,"North America","North America",9970610.00
+Longueuil,CAN,Canada,"North America","North America",9970610.00
+"Richmond Hill",CAN,Canada,"North America","North America",9970610.00
+"Thunder Bay",CAN,Canada,"North America","North America",9970610.00
+Nepean,CAN,Canada,"North America","North America",9970610.00
+"Cape Breton",CAN,Canada,"North America","North America",9970610.00
+"East York",CAN,Canada,"North America","North America",9970610.00
+Halifax,CAN,Canada,"North America","North America",9970610.00
+Cambridge,CAN,Canada,"North America","North America",9970610.00
+Gloucester,CAN,Canada,"North America","North America",9970610.00
+Abbotsford,CAN,Canada,"North America","North America",9970610.00
+Guelph,CAN,Canada,"North America","North America",9970610.00
+"Saint John´s",CAN,Canada,"North America","North America",9970610.00
+Coquitlam,CAN,Canada,"North America","North America",9970610.00
+Saanich,CAN,Canada,"North America","North America",9970610.00
+Gatineau,CAN,Canada,"North America","North America",9970610.00
+Delta,CAN,Canada,"North America","North America",9970610.00
+Sudbury,CAN,Canada,"North America","North America",9970610.00
+Kelowna,CAN,Canada,"North America","North America",9970610.00
+Barrie,CAN,Canada,"North America","North America",9970610.00
+Bantam,CCK,"Cocos (Keeling) Islands",Oceania,"Australia and New Zealand",14.00
+"West Island",CCK,"Cocos (Keeling) Islands",Oceania,"Australia and New Zealand",14.00
+Zürich,CHE,Switzerland,Europe,"Western Europe",41284.00
+Geneve,CHE,Switzerland,Europe,"Western Europe",41284.00
+Basel,CHE,Switzerland,Europe,"Western Europe",41284.00
+Bern,CHE,Switzerland,Europe,"Western Europe",41284.00
+Lausanne,CHE,Switzerland,Europe,"Western Europe",41284.00
+"Santiago de Chile",CHL,Chile,"South America","South America",756626.00
+"Puente Alto",CHL,Chile,"South America","South America",756626.00
+"Viña del Mar",CHL,Chile,"South America","South America",756626.00
+Valparaíso,CHL,Chile,"South America","South America",756626.00
+Talcahuano,CHL,Chile,"South America","South America",756626.00
+Antofagasta,CHL,Chile,"South America","South America",756626.00
+"San Bernardo",CHL,Chile,"South America","South America",756626.00
+Temuco,CHL,Chile,"South America","South America",756626.00
+Concepción,CHL,Chile,"South America","South America",756626.00
+Rancagua,CHL,Chile,"South America","South America",756626.00
+Arica,CHL,Chile,"South America","South America",756626.00
+Talca,CHL,Chile,"South America","South America",756626.00
+Chillán,CHL,Chile,"South America","South America",756626.00
+Iquique,CHL,Chile,"South America","South America",756626.00
+"Los Angeles",CHL,Chile,"South America","South America",756626.00
+"Puerto Montt",CHL,Chile,"South America","South America",756626.00
+Coquimbo,CHL,Chile,"South America","South America",756626.00
+Osorno,CHL,Chile,"South America","South America",756626.00
+"La Serena",CHL,Chile,"South America","South America",756626.00
+Calama,CHL,Chile,"South America","South America",756626.00
+Valdivia,CHL,Chile,"South America","South America",756626.00
+"Punta Arenas",CHL,Chile,"South America","South America",756626.00
+Copiapó,CHL,Chile,"South America","South America",756626.00
+Quilpué,CHL,Chile,"South America","South America",756626.00
+Curicó,CHL,Chile,"South America","South America",756626.00
+Ovalle,CHL,Chile,"South America","South America",756626.00
+Coronel,CHL,Chile,"South America","South America",756626.00
+"San Pedro de la Paz",CHL,Chile,"South America","South America",756626.00
+Melipilla,CHL,Chile,"South America","South America",756626.00
+Shanghai,CHN,China,Asia,"Eastern Asia",9572900.00
+Peking,CHN,China,Asia,"Eastern Asia",9572900.00
+Chongqing,CHN,China,Asia,"Eastern Asia",9572900.00
+Tianjin,CHN,China,Asia,"Eastern Asia",9572900.00
+Wuhan,CHN,China,Asia,"Eastern Asia",9572900.00
+Harbin,CHN,China,Asia,"Eastern Asia",9572900.00
+Shenyang,CHN,China,Asia,"Eastern Asia",9572900.00
+"Kanton [Guangzhou]",CHN,China,Asia,"Eastern Asia",9572900.00
+Chengdu,CHN,China,Asia,"Eastern Asia",9572900.00
+"Nanking [Nanjing]",CHN,China,Asia,"Eastern Asia",9572900.00
+Changchun,CHN,China,Asia,"Eastern Asia",9572900.00
+Xi´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Dalian,CHN,China,Asia,"Eastern Asia",9572900.00
+Qingdao,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinan,CHN,China,Asia,"Eastern Asia",9572900.00
+Hangzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhengzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Shijiazhuang,CHN,China,Asia,"Eastern Asia",9572900.00
+Taiyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Kunming,CHN,China,Asia,"Eastern Asia",9572900.00
+Changsha,CHN,China,Asia,"Eastern Asia",9572900.00
+Nanchang,CHN,China,Asia,"Eastern Asia",9572900.00
+Fuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Lanzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Guiyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Ningbo,CHN,China,Asia,"Eastern Asia",9572900.00
+Hefei,CHN,China,Asia,"Eastern Asia",9572900.00
+"Urumtši [Ürümqi]",CHN,China,Asia,"Eastern Asia",9572900.00
+Anshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Fushun,CHN,China,Asia,"Eastern Asia",9572900.00
+Nanning,CHN,China,Asia,"Eastern Asia",9572900.00
+Zibo,CHN,China,Asia,"Eastern Asia",9572900.00
+Qiqihar,CHN,China,Asia,"Eastern Asia",9572900.00
+Jilin,CHN,China,Asia,"Eastern Asia",9572900.00
+Tangshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Baotou,CHN,China,Asia,"Eastern Asia",9572900.00
+Shenzhen,CHN,China,Asia,"Eastern Asia",9572900.00
+Hohhot,CHN,China,Asia,"Eastern Asia",9572900.00
+Handan,CHN,China,Asia,"Eastern Asia",9572900.00
+Wuxi,CHN,China,Asia,"Eastern Asia",9572900.00
+Xuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Datong,CHN,China,Asia,"Eastern Asia",9572900.00
+Yichun,CHN,China,Asia,"Eastern Asia",9572900.00
+Benxi,CHN,China,Asia,"Eastern Asia",9572900.00
+Luoyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Suzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Xining,CHN,China,Asia,"Eastern Asia",9572900.00
+Huainan,CHN,China,Asia,"Eastern Asia",9572900.00
+Jixi,CHN,China,Asia,"Eastern Asia",9572900.00
+Daqing,CHN,China,Asia,"Eastern Asia",9572900.00
+Fuxin,CHN,China,Asia,"Eastern Asia",9572900.00
+"Amoy [Xiamen]",CHN,China,Asia,"Eastern Asia",9572900.00
+Liuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Shantou,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Mudanjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Yinchuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Changzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhangjiakou,CHN,China,Asia,"Eastern Asia",9572900.00
+Dandong,CHN,China,Asia,"Eastern Asia",9572900.00
+Hegang,CHN,China,Asia,"Eastern Asia",9572900.00
+Kaifeng,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiamusi,CHN,China,Asia,"Eastern Asia",9572900.00
+Liaoyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Hengyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Baoding,CHN,China,Asia,"Eastern Asia",9572900.00
+Hunjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Xinxiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Huangshi,CHN,China,Asia,"Eastern Asia",9572900.00
+Haikou,CHN,China,Asia,"Eastern Asia",9572900.00
+Yantai,CHN,China,Asia,"Eastern Asia",9572900.00
+Bengbu,CHN,China,Asia,"Eastern Asia",9572900.00
+Xiangtan,CHN,China,Asia,"Eastern Asia",9572900.00
+Weifang,CHN,China,Asia,"Eastern Asia",9572900.00
+Wuhu,CHN,China,Asia,"Eastern Asia",9572900.00
+Pingxiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Yingkou,CHN,China,Asia,"Eastern Asia",9572900.00
+Anyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Panzhihua,CHN,China,Asia,"Eastern Asia",9572900.00
+Pingdingshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Xiangfan,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiaozuo,CHN,China,Asia,"Eastern Asia",9572900.00
+Wenzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhangjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Zigong,CHN,China,Asia,"Eastern Asia",9572900.00
+Shuangyashan,CHN,China,Asia,"Eastern Asia",9572900.00
+Zaozhuang,CHN,China,Asia,"Eastern Asia",9572900.00
+Yakeshi,CHN,China,Asia,"Eastern Asia",9572900.00
+Yichang,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhenjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Huaibei,CHN,China,Asia,"Eastern Asia",9572900.00
+Qinhuangdao,CHN,China,Asia,"Eastern Asia",9572900.00
+Guilin,CHN,China,Asia,"Eastern Asia",9572900.00
+Liupanshui,CHN,China,Asia,"Eastern Asia",9572900.00
+Panjin,CHN,China,Asia,"Eastern Asia",9572900.00
+Yangquan,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinxi,CHN,China,Asia,"Eastern Asia",9572900.00
+Liaoyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Lianyungang,CHN,China,Asia,"Eastern Asia",9572900.00
+Xianyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Tai´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Chifeng,CHN,China,Asia,"Eastern Asia",9572900.00
+Shaoguan,CHN,China,Asia,"Eastern Asia",9572900.00
+Nantong,CHN,China,Asia,"Eastern Asia",9572900.00
+Leshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Baoji,CHN,China,Asia,"Eastern Asia",9572900.00
+Linyi,CHN,China,Asia,"Eastern Asia",9572900.00
+Tonghua,CHN,China,Asia,"Eastern Asia",9572900.00
+Siping,CHN,China,Asia,"Eastern Asia",9572900.00
+Changzhi,CHN,China,Asia,"Eastern Asia",9572900.00
+Tengzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Chaozhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Yangzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Dongwan,CHN,China,Asia,"Eastern Asia",9572900.00
+Ma´anshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Foshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Yueyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Xingtai,CHN,China,Asia,"Eastern Asia",9572900.00
+Changde,CHN,China,Asia,"Eastern Asia",9572900.00
+Shihezi,CHN,China,Asia,"Eastern Asia",9572900.00
+Yancheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiujiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Dongying,CHN,China,Asia,"Eastern Asia",9572900.00
+Shashi,CHN,China,Asia,"Eastern Asia",9572900.00
+Xintai,CHN,China,Asia,"Eastern Asia",9572900.00
+Jingdezhen,CHN,China,Asia,"Eastern Asia",9572900.00
+Tongchuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhongshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Shiyan,CHN,China,Asia,"Eastern Asia",9572900.00
+Tieli,CHN,China,Asia,"Eastern Asia",9572900.00
+Jining,CHN,China,Asia,"Eastern Asia",9572900.00
+Wuhai,CHN,China,Asia,"Eastern Asia",9572900.00
+Mianyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Luzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Zunyi,CHN,China,Asia,"Eastern Asia",9572900.00
+Shizuishan,CHN,China,Asia,"Eastern Asia",9572900.00
+Neijiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Tongliao,CHN,China,Asia,"Eastern Asia",9572900.00
+Tieling,CHN,China,Asia,"Eastern Asia",9572900.00
+Wafangdian,CHN,China,Asia,"Eastern Asia",9572900.00
+Anqing,CHN,China,Asia,"Eastern Asia",9572900.00
+Shaoyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Laiwu,CHN,China,Asia,"Eastern Asia",9572900.00
+Chengde,CHN,China,Asia,"Eastern Asia",9572900.00
+Tianshui,CHN,China,Asia,"Eastern Asia",9572900.00
+Nanyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Cangzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Yibin,CHN,China,Asia,"Eastern Asia",9572900.00
+Huaiyin,CHN,China,Asia,"Eastern Asia",9572900.00
+Dunhua,CHN,China,Asia,"Eastern Asia",9572900.00
+Yanji,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiangmen,CHN,China,Asia,"Eastern Asia",9572900.00
+Tongling,CHN,China,Asia,"Eastern Asia",9572900.00
+Suihua,CHN,China,Asia,"Eastern Asia",9572900.00
+Gongziling,CHN,China,Asia,"Eastern Asia",9572900.00
+Xiantao,CHN,China,Asia,"Eastern Asia",9572900.00
+Chaoyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Ganzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Huzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Baicheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Shangzi,CHN,China,Asia,"Eastern Asia",9572900.00
+Yangjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Qitaihe,CHN,China,Asia,"Eastern Asia",9572900.00
+Gejiu,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiangyin,CHN,China,Asia,"Eastern Asia",9572900.00
+Hebi,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiaxing,CHN,China,Asia,"Eastern Asia",9572900.00
+Wuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Meihekou,CHN,China,Asia,"Eastern Asia",9572900.00
+Xuchang,CHN,China,Asia,"Eastern Asia",9572900.00
+Liaocheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Haicheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Qianjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Baiyin,CHN,China,Asia,"Eastern Asia",9572900.00
+Bei´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Yixing,CHN,China,Asia,"Eastern Asia",9572900.00
+Laizhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Qaramay,CHN,China,Asia,"Eastern Asia",9572900.00
+Acheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Dezhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Nanping,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhaoqing,CHN,China,Asia,"Eastern Asia",9572900.00
+Beipiao,CHN,China,Asia,"Eastern Asia",9572900.00
+Fengcheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Fuyu,CHN,China,Asia,"Eastern Asia",9572900.00
+Xinyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Dongtai,CHN,China,Asia,"Eastern Asia",9572900.00
+Yuci,CHN,China,Asia,"Eastern Asia",9572900.00
+Honghu,CHN,China,Asia,"Eastern Asia",9572900.00
+Ezhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Heze,CHN,China,Asia,"Eastern Asia",9572900.00
+Daxian,CHN,China,Asia,"Eastern Asia",9572900.00
+Linfen,CHN,China,Asia,"Eastern Asia",9572900.00
+Tianmen,CHN,China,Asia,"Eastern Asia",9572900.00
+Yiyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Quanzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Rizhao,CHN,China,Asia,"Eastern Asia",9572900.00
+Deyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Guangyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Changshu,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhangzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Hailar,CHN,China,Asia,"Eastern Asia",9572900.00
+Nanchong,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiutai,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhaodong,CHN,China,Asia,"Eastern Asia",9572900.00
+Shaoxing,CHN,China,Asia,"Eastern Asia",9572900.00
+Fuyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Maoming,CHN,China,Asia,"Eastern Asia",9572900.00
+Qujing,CHN,China,Asia,"Eastern Asia",9572900.00
+Ghulja,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiaohe,CHN,China,Asia,"Eastern Asia",9572900.00
+Puyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Huadian,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiangyou,CHN,China,Asia,"Eastern Asia",9572900.00
+Qashqar,CHN,China,Asia,"Eastern Asia",9572900.00
+Anshun,CHN,China,Asia,"Eastern Asia",9572900.00
+Fuling,CHN,China,Asia,"Eastern Asia",9572900.00
+Xinyu,CHN,China,Asia,"Eastern Asia",9572900.00
+Hanzhong,CHN,China,Asia,"Eastern Asia",9572900.00
+Danyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Chenzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Xiaogan,CHN,China,Asia,"Eastern Asia",9572900.00
+Shangqiu,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhuhai,CHN,China,Asia,"Eastern Asia",9572900.00
+Qingyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Aqsu,CHN,China,Asia,"Eastern Asia",9572900.00
+Jining,CHN,China,Asia,"Eastern Asia",9572900.00
+Xiaoshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Zaoyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Xinghua,CHN,China,Asia,"Eastern Asia",9572900.00
+Hami,CHN,China,Asia,"Eastern Asia",9572900.00
+Huizhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinmen,CHN,China,Asia,"Eastern Asia",9572900.00
+Sanming,CHN,China,Asia,"Eastern Asia",9572900.00
+Ulanhot,CHN,China,Asia,"Eastern Asia",9572900.00
+Korla,CHN,China,Asia,"Eastern Asia",9572900.00
+Wanxian,CHN,China,Asia,"Eastern Asia",9572900.00
+Rui´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhoushan,CHN,China,Asia,"Eastern Asia",9572900.00
+Liangcheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiaozhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Taizhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Suzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Yichun,CHN,China,Asia,"Eastern Asia",9572900.00
+Taonan,CHN,China,Asia,"Eastern Asia",9572900.00
+Pingdu,CHN,China,Asia,"Eastern Asia",9572900.00
+Ji´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Longkou,CHN,China,Asia,"Eastern Asia",9572900.00
+Langfang,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhoukou,CHN,China,Asia,"Eastern Asia",9572900.00
+Suining,CHN,China,Asia,"Eastern Asia",9572900.00
+Yulin,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinhua,CHN,China,Asia,"Eastern Asia",9572900.00
+Liu´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Shuangcheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Suizhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Ankang,CHN,China,Asia,"Eastern Asia",9572900.00
+Weinan,CHN,China,Asia,"Eastern Asia",9572900.00
+Longjing,CHN,China,Asia,"Eastern Asia",9572900.00
+Da´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Lengshuijiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Laiyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Xianning,CHN,China,Asia,"Eastern Asia",9572900.00
+Dali,CHN,China,Asia,"Eastern Asia",9572900.00
+Anda,CHN,China,Asia,"Eastern Asia",9572900.00
+Jincheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Longyan,CHN,China,Asia,"Eastern Asia",9572900.00
+Xichang,CHN,China,Asia,"Eastern Asia",9572900.00
+Wendeng,CHN,China,Asia,"Eastern Asia",9572900.00
+Hailun,CHN,China,Asia,"Eastern Asia",9572900.00
+Binzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Linhe,CHN,China,Asia,"Eastern Asia",9572900.00
+Wuwei,CHN,China,Asia,"Eastern Asia",9572900.00
+Duyun,CHN,China,Asia,"Eastern Asia",9572900.00
+Mishan,CHN,China,Asia,"Eastern Asia",9572900.00
+Shangrao,CHN,China,Asia,"Eastern Asia",9572900.00
+Changji,CHN,China,Asia,"Eastern Asia",9572900.00
+Meixian,CHN,China,Asia,"Eastern Asia",9572900.00
+Yushu,CHN,China,Asia,"Eastern Asia",9572900.00
+Tiefa,CHN,China,Asia,"Eastern Asia",9572900.00
+Huai´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Leiyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Zalantun,CHN,China,Asia,"Eastern Asia",9572900.00
+Weihai,CHN,China,Asia,"Eastern Asia",9572900.00
+Loudi,CHN,China,Asia,"Eastern Asia",9572900.00
+Qingzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Qidong,CHN,China,Asia,"Eastern Asia",9572900.00
+Huaihua,CHN,China,Asia,"Eastern Asia",9572900.00
+Luohe,CHN,China,Asia,"Eastern Asia",9572900.00
+Chuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Kaiyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Linqing,CHN,China,Asia,"Eastern Asia",9572900.00
+Chaohu,CHN,China,Asia,"Eastern Asia",9572900.00
+Laohekou,CHN,China,Asia,"Eastern Asia",9572900.00
+Dujiangyan,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhumadian,CHN,China,Asia,"Eastern Asia",9572900.00
+Linchuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Jiaonan,CHN,China,Asia,"Eastern Asia",9572900.00
+Sanmenxia,CHN,China,Asia,"Eastern Asia",9572900.00
+Heyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Manzhouli,CHN,China,Asia,"Eastern Asia",9572900.00
+Lhasa,CHN,China,Asia,"Eastern Asia",9572900.00
+Lianyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Kuytun,CHN,China,Asia,"Eastern Asia",9572900.00
+Puqi,CHN,China,Asia,"Eastern Asia",9572900.00
+Hongjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Qinzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Renqiu,CHN,China,Asia,"Eastern Asia",9572900.00
+Yuyao,CHN,China,Asia,"Eastern Asia",9572900.00
+Guigang,CHN,China,Asia,"Eastern Asia",9572900.00
+Kaili,CHN,China,Asia,"Eastern Asia",9572900.00
+Yan´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Beihai,CHN,China,Asia,"Eastern Asia",9572900.00
+Xuangzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Quzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Yong´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Zixing,CHN,China,Asia,"Eastern Asia",9572900.00
+Liyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Yizheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Yumen,CHN,China,Asia,"Eastern Asia",9572900.00
+Liling,CHN,China,Asia,"Eastern Asia",9572900.00
+Yuncheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Shanwei,CHN,China,Asia,"Eastern Asia",9572900.00
+Cixi,CHN,China,Asia,"Eastern Asia",9572900.00
+Yuanjiang,CHN,China,Asia,"Eastern Asia",9572900.00
+Bozhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinchang,CHN,China,Asia,"Eastern Asia",9572900.00
+Fu´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Suqian,CHN,China,Asia,"Eastern Asia",9572900.00
+Shishou,CHN,China,Asia,"Eastern Asia",9572900.00
+Hengshui,CHN,China,Asia,"Eastern Asia",9572900.00
+Danjiangkou,CHN,China,Asia,"Eastern Asia",9572900.00
+Fujin,CHN,China,Asia,"Eastern Asia",9572900.00
+Sanya,CHN,China,Asia,"Eastern Asia",9572900.00
+Guangshui,CHN,China,Asia,"Eastern Asia",9572900.00
+Huangshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Xingcheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhucheng,CHN,China,Asia,"Eastern Asia",9572900.00
+Kunshan,CHN,China,Asia,"Eastern Asia",9572900.00
+Haining,CHN,China,Asia,"Eastern Asia",9572900.00
+Pingliang,CHN,China,Asia,"Eastern Asia",9572900.00
+Fuqing,CHN,China,Asia,"Eastern Asia",9572900.00
+Xinzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Jieyang,CHN,China,Asia,"Eastern Asia",9572900.00
+Zhangjiagang,CHN,China,Asia,"Eastern Asia",9572900.00
+"Tong Xian",CHN,China,Asia,"Eastern Asia",9572900.00
+Ya´an,CHN,China,Asia,"Eastern Asia",9572900.00
+Jinzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Emeishan,CHN,China,Asia,"Eastern Asia",9572900.00
+Enshi,CHN,China,Asia,"Eastern Asia",9572900.00
+Bose,CHN,China,Asia,"Eastern Asia",9572900.00
+Yuzhou,CHN,China,Asia,"Eastern Asia",9572900.00
+Kaiyuan,CHN,China,Asia,"Eastern Asia",9572900.00
+Tumen,CHN,China,Asia,"Eastern Asia",9572900.00
+Putian,CHN,China,Asia,"Eastern Asia",9572900.00
+Linhai,CHN,China,Asia,"Eastern Asia",9572900.00
+"Xilin Hot",CHN,China,Asia,"Eastern Asia",9572900.00
+Shaowu,CHN,China,Asia,"Eastern Asia",9572900.00
+Junan,CHN,China,Asia,"Eastern Asia",9572900.00
+Huaying,CHN,China,Asia,"Eastern Asia",9572900.00
+Pingyi,CHN,China,Asia,"Eastern Asia",9572900.00
+Huangyan,CHN,China,Asia,"Eastern Asia",9572900.00
+Abidjan,CIV,"Côte d’Ivoire",Africa,"Western Africa",322463.00
+Bouaké,CIV,"Côte d’Ivoire",Africa,"Western Africa",322463.00
+Yamoussoukro,CIV,"Côte d’Ivoire",Africa,"Western Africa",322463.00
+Daloa,CIV,"Côte d’Ivoire",Africa,"Western Africa",322463.00
+Korhogo,CIV,"Côte d’Ivoire",Africa,"Western Africa",322463.00
+Douala,CMR,Cameroon,Africa,"Central Africa",475442.00
+Yaoundé,CMR,Cameroon,Africa,"Central Africa",475442.00
+Garoua,CMR,Cameroon,Africa,"Central Africa",475442.00
+Maroua,CMR,Cameroon,Africa,"Central Africa",475442.00
+Bamenda,CMR,Cameroon,Africa,"Central Africa",475442.00
+Bafoussam,CMR,Cameroon,Africa,"Central Africa",475442.00
+Nkongsamba,CMR,Cameroon,Africa,"Central Africa",475442.00
+Kinshasa,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Lubumbashi,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Mbuji-Mayi,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Kolwezi,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Kisangani,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Kananga,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Likasi,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Bukavu,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Kikwit,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Tshikapa,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Matadi,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Mbandaka,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Mwene-Ditu,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Boma,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Uvira,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Butembo,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Goma,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Kalemie,COD,"Congo, The Democratic Republic of the",Africa,"Central Africa",2344858.00
+Brazzaville,COG,Congo,Africa,"Central Africa",342000.00
+Pointe-Noire,COG,Congo,Africa,"Central Africa",342000.00
+Avarua,COK,"Cook Islands",Oceania,Polynesia,236.00
+"Santafé de Bogotá",COL,Colombia,"South America","South America",1138914.00
+Cali,COL,Colombia,"South America","South America",1138914.00
+Medellín,COL,Colombia,"South America","South America",1138914.00
+Barranquilla,COL,Colombia,"South America","South America",1138914.00
+Cartagena,COL,Colombia,"South America","South America",1138914.00
+Cúcuta,COL,Colombia,"South America","South America",1138914.00
+Bucaramanga,COL,Colombia,"South America","South America",1138914.00
+Ibagué,COL,Colombia,"South America","South America",1138914.00
+Pereira,COL,Colombia,"South America","South America",1138914.00
+"Santa Marta",COL,Colombia,"South America","South America",1138914.00
+Manizales,COL,Colombia,"South America","South America",1138914.00
+Bello,COL,Colombia,"South America","South America",1138914.00
+Pasto,COL,Colombia,"South America","South America",1138914.00
+Neiva,COL,Colombia,"South America","South America",1138914.00
+Soledad,COL,Colombia,"South America","South America",1138914.00
+Armenia,COL,Colombia,"South America","South America",1138914.00
+Villavicencio,COL,Colombia,"South America","South America",1138914.00
+Soacha,COL,Colombia,"South America","South America",1138914.00
+Valledupar,COL,Colombia,"South America","South America",1138914.00
+Montería,COL,Colombia,"South America","South America",1138914.00
+Itagüí,COL,Colombia,"South America","South America",1138914.00
+Palmira,COL,Colombia,"South America","South America",1138914.00
+Buenaventura,COL,Colombia,"South America","South America",1138914.00
+Floridablanca,COL,Colombia,"South America","South America",1138914.00
+Sincelejo,COL,Colombia,"South America","South America",1138914.00
+Popayán,COL,Colombia,"South America","South America",1138914.00
+Barrancabermeja,COL,Colombia,"South America","South America",1138914.00
+"Dos Quebradas",COL,Colombia,"South America","South America",1138914.00
+Tuluá,COL,Colombia,"South America","South America",1138914.00
+Envigado,COL,Colombia,"South America","South America",1138914.00
+Cartago,COL,Colombia,"South America","South America",1138914.00
+Girardot,COL,Colombia,"South America","South America",1138914.00
+Buga,COL,Colombia,"South America","South America",1138914.00
+Tunja,COL,Colombia,"South America","South America",1138914.00
+Florencia,COL,Colombia,"South America","South America",1138914.00
+Maicao,COL,Colombia,"South America","South America",1138914.00
+Sogamoso,COL,Colombia,"South America","South America",1138914.00
+Giron,COL,Colombia,"South America","South America",1138914.00
+Moroni,COM,Comoros,Africa,"Eastern Africa",1862.00
+Praia,CPV,"Cape Verde",Africa,"Western Africa",4033.00
+"San José",CRI,"Costa Rica","North America","Central America",51100.00
+"La Habana",CUB,Cuba,"North America",Caribbean,110861.00
+"Santiago de Cuba",CUB,Cuba,"North America",Caribbean,110861.00
+Camagüey,CUB,Cuba,"North America",Caribbean,110861.00
+Holguín,CUB,Cuba,"North America",Caribbean,110861.00
+"Santa Clara",CUB,Cuba,"North America",Caribbean,110861.00
+Guantánamo,CUB,Cuba,"North America",Caribbean,110861.00
+"Pinar del Río",CUB,Cuba,"North America",Caribbean,110861.00
+Bayamo,CUB,Cuba,"North America",Caribbean,110861.00
+Cienfuegos,CUB,Cuba,"North America",Caribbean,110861.00
+"Victoria de las Tunas",CUB,Cuba,"North America",Caribbean,110861.00
+Matanzas,CUB,Cuba,"North America",Caribbean,110861.00
+Manzanillo,CUB,Cuba,"North America",Caribbean,110861.00
+Sancti-Spíritus,CUB,Cuba,"North America",Caribbean,110861.00
+"Ciego de Ávila",CUB,Cuba,"North America",Caribbean,110861.00
+"Flying Fish Cove",CXR,"Christmas Island",Oceania,"Australia and New Zealand",135.00
+"George Town",CYM,"Cayman Islands","North America",Caribbean,264.00
+Nicosia,CYP,Cyprus,Asia,"Middle East",9251.00
+Limassol,CYP,Cyprus,Asia,"Middle East",9251.00
+Praha,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+Brno,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+Ostrava,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+Plzen,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+Olomouc,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+Liberec,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+"Ceské Budejovice",CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+"Hradec Králové",CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+"Ústí nad Labem",CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
+Pardubice,CZE,"Czech Republic",Europe,"Eastern Europe",78866.00
